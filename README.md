@@ -13,4 +13,4 @@ For brachytherapy procedures, a small number, *n*, of radioactive Cs-137 sources
 
 Keywords: brachytherapy, statistical analysis, Cs-137
 
-Download [here](estimating_initial_activity_for_multiple_sources.pdf).
+Download [here](estimating_initial_activity_for_multiple_sources.pdf).  Copyrighted by the authors, 2023.
